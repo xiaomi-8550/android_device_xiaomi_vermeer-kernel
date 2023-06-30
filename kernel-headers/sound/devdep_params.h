@@ -9,7 +9,7 @@ struct dolby_param_data {
 	__s32 be_id;
 	__s32 param_id;
 	__s32 length;
-	__s32 __user *data;
+	__s32 data;
 };
 
 struct dolby_param_license {
