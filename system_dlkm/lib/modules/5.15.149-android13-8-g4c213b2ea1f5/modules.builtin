@@ -644,6 +644,7 @@ kernel/net/8021q/8021q.ko
 kernel/net/tipc/tipc.ko
 kernel/net/tipc/diag.ko
 kernel/net/rfkill/rfkill.ko
+kernel/net/9p/9pnet.ko
 kernel/net/6lowpan/6lowpan.ko
 kernel/net/6lowpan/nhc_dest.ko
 kernel/net/6lowpan/nhc_fragment.ko
