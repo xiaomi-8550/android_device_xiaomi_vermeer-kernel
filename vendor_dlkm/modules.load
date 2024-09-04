@@ -93,7 +93,6 @@ kernel/drivers/spi/spi-msm-geni.ko
 kernel/drivers/spmi/spmi-pmic-arb-debug.ko
 kernel/drivers/net/phy/realtek.ko
 kernel/drivers/net/can/spi/mcp25xxfd.ko
-kernel/drivers/net/ethernet/toshiba/tc956x/tc956x_pcie_eth.ko
 kernel/drivers/uio/msm_sharedmem/msm_sharedmem.ko
 kernel/drivers/usb/phy/phy-generic.ko
 kernel/drivers/usb/phy/phy-qcom-emu.ko
