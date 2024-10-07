@@ -143,6 +143,7 @@ kernel/drivers/edac/qcom_edac.ko
 kernel/drivers/cpufreq/qcom-cpufreq-hw-debug.ko
 kernel/drivers/cpuidle/governors/qcom_lpm.ko
 kernel/drivers/leds/leds-qti-flash.ko
+kernel/drivers/leds/leds-qpnp-flash-common.ko
 kernel/drivers/leds/leds-qti-tri-led.ko
 kernel/drivers/leds/leds-qpnp-vibrator-ldo.ko
 kernel/drivers/firmware/arm_scmi/memlat_vendor.ko
