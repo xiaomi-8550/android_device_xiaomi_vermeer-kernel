@@ -426,6 +426,7 @@
 0xa44cff02	__traceiter_android_rvh_find_new_ilb	vmlinux	EXPORT_SYMBOL_GPL	
 0xbdaa26fa	__traceiter_android_vh_irqtime_account_process_tick	vmlinux	EXPORT_SYMBOL_GPL	
 0xfcbf01bd	genlmsg_multicast_allns	vmlinux	EXPORT_SYMBOL	
+0x18c3a2a8	__traceiter_android_vh_page_cache_miss	vmlinux	EXPORT_SYMBOL_GPL	
 0x163aaaa7	devm_mbox_controller_register	vmlinux	EXPORT_SYMBOL_GPL	
 0x1c3dc224	dev_pm_opp_adjust_voltage	vmlinux	EXPORT_SYMBOL_GPL	
 0xbd9d564d	i3c_master_do_daa	vmlinux	EXPORT_SYMBOL_GPL	
@@ -670,6 +671,7 @@
 0x343fc264	fscrypt_encrypt_pagecache_blocks	vmlinux	EXPORT_SYMBOL	VFS_internal_I_am_really_a_filesystem_and_am_NOT_a_driver
 0x3ef2c900	__blockdev_direct_IO	vmlinux	EXPORT_SYMBOL	VFS_internal_I_am_really_a_filesystem_and_am_NOT_a_driver
 0xdf1d8376	ip6_route_me_harder	vmlinux	EXPORT_SYMBOL	
+0x6b8dc9ae	__tracepoint_android_vh_page_cache_miss	vmlinux	EXPORT_SYMBOL_GPL	
 0x5728d98f	__traceiter_android_vh_printk_hotplug	vmlinux	EXPORT_SYMBOL_GPL	
 0x45c436a9	thermal_zone_device_update	vmlinux	EXPORT_SYMBOL_GPL	
 0xdbcd27e2	dev_fwnode	vmlinux	EXPORT_SYMBOL_GPL	
@@ -1278,6 +1280,7 @@
 0x9a6f208c	spi_delay_exec	vmlinux	EXPORT_SYMBOL_GPL	
 0xaeb292b2	ufshcd_release	vmlinux	EXPORT_SYMBOL_GPL	
 0xd8c72ffe	dma_buf_move_notify	vmlinux	EXPORT_SYMBOL_GPL	
+0x665e92a0	clk_set_duty_cycle	vmlinux	EXPORT_SYMBOL_GPL	
 0xb6bce8f8	__tracepoint_android_rvh_schedule	vmlinux	EXPORT_SYMBOL_GPL	
 0xce9884d7	srcu_notifier_call_chain	vmlinux	EXPORT_SYMBOL_GPL	
 0x7a2af7b4	cpu_number	vmlinux	EXPORT_SYMBOL	
@@ -3588,6 +3591,7 @@
 0xce792a29	find_vm_area	vmlinux	EXPORT_SYMBOL_GPL	
 0x9291cd3b	memdup_user	vmlinux	EXPORT_SYMBOL	
 0x4bcdd224	__tracepoint_android_rvh_update_rt_rq_load_avg	vmlinux	EXPORT_SYMBOL_GPL	
+0x291720c3	tcp_send_active_reset	vmlinux	EXPORT_SYMBOL_GPL	
 0xbe4a6e97	thermal_cooling_device_unregister	vmlinux	EXPORT_SYMBOL_GPL	
 0xbb3dadef	__traceiter_dwc3_complete_trb	vmlinux	EXPORT_SYMBOL_GPL	
 0xb5293491	drm_gem_dmabuf_vunmap	vmlinux	EXPORT_SYMBOL	
@@ -6178,6 +6182,7 @@
 0xa3b96c49	mbox_chan_received_data	vmlinux	EXPORT_SYMBOL_GPL	
 0xf4cff926	_dev_warn	vmlinux	EXPORT_SYMBOL	
 0xfc6cf548	vfs_statfs	vmlinux	EXPORT_SYMBOL	VFS_internal_I_am_really_a_filesystem_and_am_NOT_a_driver
+0xd24bad1a	netdev_get_name	vmlinux	EXPORT_SYMBOL_GPL	
 0x24a59ae2	__mdiobus_read	vmlinux	EXPORT_SYMBOL	
 0x88fc3e37	_dev_alert	vmlinux	EXPORT_SYMBOL	
 0xa0572174	mipi_dsi_driver_register_full	vmlinux	EXPORT_SYMBOL	
@@ -7431,6 +7436,7 @@
 0x35d75048	usb_disable_autosuspend	vmlinux	EXPORT_SYMBOL_GPL	
 0x26fd898e	usb_get_dev	vmlinux	EXPORT_SYMBOL_GPL	
 0xdcb0a2c0	phylink_stop	vmlinux	EXPORT_SYMBOL_GPL	
+0x20db2663	device_property_match_string	vmlinux	EXPORT_SYMBOL_GPL	
 0x1ed4d2eb	percpu_ref_kill_and_confirm	vmlinux	EXPORT_SYMBOL_GPL	
 0xd5b19234	iunique	vmlinux	EXPORT_SYMBOL	VFS_internal_I_am_really_a_filesystem_and_am_NOT_a_driver
 0x121d958a	unregister_die_notifier	vmlinux	EXPORT_SYMBOL_GPL	
