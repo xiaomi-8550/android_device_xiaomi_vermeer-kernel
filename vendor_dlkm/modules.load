@@ -143,6 +143,7 @@ kernel/drivers/thermal/mi_thermal_interface.ko
 kernel/drivers/edac/qcom_edac.ko
 kernel/drivers/cpufreq/qcom-cpufreq-hw-debug.ko
 kernel/drivers/cpuidle/governors/qcom_lpm.ko
+kernel/drivers/leds/leds-gpio.ko
 kernel/drivers/leds/leds-qti-flash.ko
 kernel/drivers/leds/leds-qti-tri-led.ko
 kernel/drivers/leds/leds-qpnp-vibrator-ldo.ko
@@ -166,6 +167,7 @@ kernel/drivers/rpmsg/qcom_glink_spss.ko
 kernel/drivers/rpmsg/qcom_smd.ko
 kernel/drivers/virt/gunyah/gh_irq_lend.ko
 kernel/drivers/virt/gunyah/gh_mem_notifier.ko
+kernel/drivers/extcon/extcon-ktm5030.ko
 kernel/drivers/iio/adc/qcom-spmi-adc5-gen3.ko
 kernel/drivers/iio/adc/qcom-vadc-common.ko
 kernel/drivers/iio/adc/qti-glink-adc.ko
